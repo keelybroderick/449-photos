@@ -12,6 +12,11 @@ main {
     width: 900px;
 }
 
+.masthead {
+    background: no-repeat bottom / cover url(images/mac.jpg);
+    height: 250px;
+}
+
 .details {
     display: flex;
     gap: 20px;
@@ -24,3 +29,6 @@ main {
     margin-top: 20px;
 }
 
+img {
+    width: 100%;
+}

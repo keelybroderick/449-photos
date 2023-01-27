@@ -25,6 +25,12 @@ h1 {
     margin: 100px 0 25px 0;
 }
 
+.single {
+    background: no-repeat bottom / cover url('images/mac.jpg');
+    height: 250px;
+    border-radius: 20px;
+}
+
 .row1 {
     display: flex;
     gap: 25px;

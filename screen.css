@@ -25,12 +25,6 @@ h1 {
     margin: 100px 0 25px 0;
 }
 
-.masthead {
-    background: no-repeat bottom / cover url('images/mac.jpg');
-    height: 250px;
-    border-radius: 20px;
-}
-
 .row1 {
     display: flex;
     gap: 25px;
@@ -44,4 +38,50 @@ h1 {
     margin-top: 25px;
 }
 
+.pic1 {
+    background: no-repeat bottom / cover url('images/mac.jpg');
+    height: 250px;
+    border-radius: 20px;
+}
 
+.pic2 {
+    background: no-repeat bottom / cover url('images/mac.jpg');
+    height: 250px;
+    border-radius: 20px;
+}
+
+.pic3 {
+    background: no-repeat bottom / cover url('images/mac.jpg');
+    height: 250px;
+    border-radius: 20px;
+}
+.pic4 {
+    background: no-repeat bottom / cover url('images/mac.jpg');
+    height: 250px;
+    border-radius: 20px;
+}
+.pic5 {
+    background: no-repeat bottom / cover url('images/mac.jpg');
+    height: 250px;
+    border-radius: 20px;
+}
+.pic6 {
+    background: no-repeat bottom / cover url('images/mac.jpg');
+    height: 250px;
+    border-radius: 20px;
+}
+.pic7 {
+    background: no-repeat bottom / cover url('images/mac.jpg');
+    height: 250px;
+    border-radius: 20px;
+}
+.pic8 {
+    background: no-repeat bottom / cover url('images/mac.jpg');
+    height: 250px;
+    border-radius: 20px;
+}
+.pic9 {
+    background: no-repeat bottom / cover url('images/mac.jpg');
+    height: 250px;
+    border-radius: 20px;
+}

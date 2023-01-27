@@ -38,7 +38,11 @@ h1 {
     margin-top: 25px;
 }
 
-
+.pic1 {
+    background: no-repeat bottom / cover url('images/mac.jpg');
+    height: 250px;
+    border-radius: 20px;
+}
 
 .pic2 {
     background: no-repeat bottom / cover url('images/mac.jpg');

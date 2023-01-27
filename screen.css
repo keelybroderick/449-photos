@@ -23,6 +23,8 @@ h1 {
     font-size: 3rem;
     padding-left: 55px;
     margin: 100px 0 25px 0;
+    text-decoration: none;
+    color: black;
 }
 
 .single {

@@ -23,9 +23,12 @@ h1 {
     font-size: 3rem;
     padding-left: 55px;
     margin: 100px 0 25px 0;
-    text-decoration: none;
     color: black;
 }
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
 
 .single {
     background: no-repeat bottom / cover url('images/mac.jpg');

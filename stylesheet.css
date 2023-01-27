@@ -1,34 +1,80 @@
+
+
 body {
-    background: white;
-    font-family: Arial, Helvetica, sans-serif;
-    border-top: 20px solid black;
-    border-bottom: 20px solid black;
+    background: #fff;
+    font-family: Helvetica, sans-serif;
+    border-top: 15px solid #424242;
     margin: 0;
-    color: black;
+    color: #424242;
 }
 
 main {
     margin: 0 auto;
-    width: 900px;
+    width: 800px;
 }
 
 .masthead {
-    background: no-repeat bottom / cover url(images/mac.jpg);
+    background: no-repeat bottom / cover url('images/mac.jpg');
     height: 250px;
+    border-radius: 20px;
 }
 
 .details {
     display: flex;
-    gap: 20px;
+    gap: 25px;
 }
 
 .details section {
     flex-grow: 1;
     flex-basis: 0;
-    background: grey;
-    margin-top: 20px;
+    background: #eee;
+    border-radius: 20px;
+    margin-top: 25px;
+}
+
+.details section p {
+    margin: 25px;
+}
+
+.details section h2 {
+    margin: 25px;
+}
+
+.details section.with-code{
+    padding: 0;
+}
+
+div.code-html {
+    padding: 25px;
+    background: #424242;
+    color: #fff;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 img {
     width: 100%;
 }
+
+h1 {
+    background-image: url('images/h-logo.png');
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position: center left;
+    font-size: 3rem;
+    padding-left: 55px;
+    margin: 100px 0 25px 0;
+}
+
+h2{
+    margin: 0 0 10px 0;
+}
+
+p {
+    margin: 0;
+    line-height: 1.4rem;
+}
+
+\
+
+\

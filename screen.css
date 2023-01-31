@@ -42,7 +42,7 @@ a:active { text-decoration: none; }
     gap: 25px;
 }
 
-.row1 div {
+.row1 .photoformat {
     flex-grow: 1;
     flex-basis: 0;
     background: #eee;

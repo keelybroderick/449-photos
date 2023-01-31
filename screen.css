@@ -5,16 +5,13 @@ body {
     margin: 0;
     color: #424242;
 }
-
 main {
     margin: 0 auto;
     width: 800px;
 }
-
 img {
     width: 100%;
 }
-
 h1 {
     background-image: url('images/hawaiilogo.png');
     background-repeat: no-repeat;
@@ -29,8 +26,6 @@ a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 a:active { text-decoration: none; }
-
-
 .picbig {
     background: no-repeat bottom / cover url('images/1.jpeg');
     height: 1000px;
@@ -43,7 +38,6 @@ a:active { text-decoration: none; }
     border-radius: 10px;
     margin-top: 25px;
 }
-
 .row1 .words {
     flex-grow: 1;
     flex-basis: 0;
@@ -53,12 +47,10 @@ a:active { text-decoration: none; }
     padding-left: 25px;
     border-radius: 10px;
 }
-
 .row1 {
     display: flex;
     gap: 25px;
 }
-
 .row1 .photoformat {
     flex-grow: 1;
     flex-basis: 0;
@@ -66,19 +58,16 @@ a:active { text-decoration: none; }
     border-radius: 10px;
     margin-top: 25px;
 }
-
 .pic1 {
     background: no-repeat bottom / cover url('images/1.jpeg');
     height: 250px;
     border-radius: 10px;
 }
-
 .pic2 {
     background: no-repeat bottom / cover url('images/2.jpeg');
     height: 250px;
     border-radius: 10px;
 }
-
 .pic3 {
     background: no-repeat bottom / cover url('images/3.jpeg');
     height: 250px;

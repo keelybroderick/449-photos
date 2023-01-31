@@ -33,7 +33,7 @@ a:active { text-decoration: none; }
 
 .picbig {
     background: no-repeat bottom / cover url('images/1.jpeg');
-    height: 500px;
+    height: 1000px;
     border-radius: 20px;
 }
 
@@ -42,7 +42,7 @@ a:active { text-decoration: none; }
     gap: 25px;
 }
 
-.row1 section {
+.row1 div {
     flex-grow: 1;
     flex-basis: 0;
     background: #eee;

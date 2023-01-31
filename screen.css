@@ -33,14 +33,14 @@ a:active { text-decoration: none; }
 
 .picbig {
     background: no-repeat bottom / cover url('images/1.jpeg');
-    height: 500px;
-    border-radius: 20px;
+    height: 1000px;
+    border-radius: 10px;
 }
 .row1 .photoformat2 {
     flex-grow: 1;
     flex-basis: 0;
     background: #eee;
-    border-radius: 20px;
+    border-radius: 10px;
     margin-top: 25px;
 }
 
@@ -53,54 +53,54 @@ a:active { text-decoration: none; }
     flex-grow: 1;
     flex-basis: 0;
     background: #eee;
-    border-radius: 20px;
+    border-radius: 10px;
     margin-top: 25px;
 }
 
 .pic1 {
     background: no-repeat bottom / cover url('images/1.jpeg');
     height: 250px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 .pic2 {
     background: no-repeat bottom / cover url('images/2.jpeg');
     height: 250px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 .pic3 {
     background: no-repeat bottom / cover url('images/3.jpeg');
     height: 250px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .pic4 {
     background: no-repeat bottom / cover url('images/4.jpeg');
     height: 250px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .pic5 {
     background: no-repeat bottom / cover url('images/5.jpeg');
     height: 250px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .pic6 {
     background: no-repeat bottom / cover url('images/6.jpeg');
     height: 250px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .pic7 {
     background: no-repeat bottom / cover url('images/7.jpeg');
     height: 250px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .pic8 {
     background: no-repeat bottom / cover url('images/8.jpeg');
     height: 250px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .pic9 {
     background: no-repeat bottom / cover url('images/9.jpeg');
     height: 250px;
-    border-radius: 20px;
+    border-radius: 10px;
 }

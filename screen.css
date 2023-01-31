@@ -33,7 +33,7 @@ a:active { text-decoration: none; }
 
 .picbig {
     background: no-repeat bottom / cover url('images/1.jpeg');
-    height: 1000px;
+    height: 700px;
     border-radius: 20px;
 }
 

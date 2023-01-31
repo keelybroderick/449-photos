@@ -44,6 +44,15 @@ a:active { text-decoration: none; }
     margin-top: 25px;
 }
 
+.row1 .words {
+    flex-grow: 1;
+    flex-basis: 0;
+    background: #eee;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-left: 25px;
+}
+
 .row1 {
     display: flex;
     gap: 25px;

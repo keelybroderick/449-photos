@@ -16,7 +16,7 @@ img {
 }
 
 h1 {
-    background-image: url('images/h-logo.png');
+    background-image: url('images/hawaiilogo.png');
     background-repeat: no-repeat;
     background-size: 40px;
     background-position: center left;
@@ -51,6 +51,7 @@ a:active { text-decoration: none; }
     margin-top: 25px;
     margin-bottom: 25px;
     padding-left: 25px;
+    border-radius: 10px;
 }
 
 .row1 {
